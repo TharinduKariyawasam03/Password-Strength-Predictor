@@ -58,7 +58,6 @@ Password-Strength-Predictor/
 ├── UI.ipynb
 ├── password_model.pkl
 ├── tfidf_vectorizer.pkl
-├── UI.ipynb
 ├── README.md
 └── requirements.txt
 ```
